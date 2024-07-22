@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/goatslacker/alt.git"
+    "url": "https://github.com/sunnylabs/alt.git#broadcom"
   },
   "authors": [
     "Josh Perez <josh@goatslacker.com>",
